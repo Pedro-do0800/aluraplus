@@ -1,4 +1,9 @@
-body{
-    background-color: #383d3d;
-    color:white 
-}   
+header{
+    background-color: #383D58;
+    color:white;
+    display: flex;
+    justify-content: space-around
+}
+.cabecalho-imagem{
+    width: 20%;
+}
